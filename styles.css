@@ -1,0 +1,28 @@
+.container{
+    display: block;
+    text-align: center;
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+}
+#title{
+    font-size: 50px;
+    margin: 50px;
+    
+}
+#value{
+    font-size: 100px;
+}
+.button-container{
+    margin-top: 50px;
+}
+
+.buttons{
+
+    padding : 5px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border:0px;
+    background-color: aquamarine;
+}
+
